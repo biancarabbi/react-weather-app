@@ -13,7 +13,7 @@ export default function App() {
           <a href="https://www.shecodes.io/" target="_blank" rel="noreferrer">
             SheCodes
           </a>{" "}
-          and hosted on <a href="">Netlify</a>
+          and hosted on <a href="#">Netlify</a>
           <p>
             open the repository{" "}
             <a
