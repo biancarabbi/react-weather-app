@@ -13,14 +13,6 @@ export default function App() {
           <a href="https://www.shecodes.io/" target="_blank" rel="noreferrer">
             SheCodes
           </a>{" "}
-          and hosted on{" "}
-          <a
-            href="https://fluffy-kitten-13b7a8.netlify.app/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Netlify
-          </a>
           <p>
             open the repository{" "}
             <a
