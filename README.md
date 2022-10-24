@@ -1,4 +1,4 @@
-<h1>Weather App</h1>
+<h1>Weather App :thermometer:</h1>
 <p>weather app developed in <a href="https://www.shecodes.io/" target="_blank">SheCodes</a> React</p>
 
 <hr />
